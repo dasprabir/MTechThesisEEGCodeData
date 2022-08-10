@@ -2,7 +2,7 @@
 This is my M-Tech Project codes along with data on Functional Brain Connectivity Analysis with Brain-Behavior Correlation: An EEGBased Study
 
 # Thesis and ppt
-[embed][https://drive.google.com/file/d/1U0cOrIZjjN0kTfdVppjqkZDSy40a9TE6/view?usp=sharing][/embed]
+https://drive.google.com/file/d/1U0cOrIZjjN0kTfdVppjqkZDSy40a9TE6/view?usp=sharing
 
 Citation 
 -------------------------------------------------------------------------------------------
