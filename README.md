@@ -7,21 +7,16 @@ several dimensions of space and functionally interacting across numerous scales 
 Different groups of neurons in our brain are functionally linked and correlated and it has
 a substantial impact on cognition, behaviour, and general brain dynamics. In this thesis,
 different phase synchronization and power connectivity methods are demonstrated after
-
 time-frequency decomposition of EEG signals obtained from task-related and resting-
 state experiments. Frequency domain analysis was done to extract power and phase
-
 information using complex Morlet wavelet convolution. Phase-based Synchronization
 is an important mechanism by which different neural population transmit and process
 information. Inter-Trail Phase Clustering (ITPC), Inter-Site Phase Clustering (ISPC),
 Phase Lag Index (PLI) are chosen for phase-based connectivity measures and amplitude
-
 time series analysis, cross-frequency coupling are selected to analyse power-based con-
 nectivity measures. Also, hub and hubness constructed and small world characteristics
-
 of brain are interpreted and analyzed using graph theory. Finally, brain-behaviour cor-
 relation is performed using within subject cross-trial multiple regression to test whether
-
 EEG power is associated with some measure of behaviour.
 
 
